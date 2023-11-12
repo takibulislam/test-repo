@@ -1,2 +1,6 @@
 Hello This is me
 HI
+
+lets learn git commit
+
+going to make the second commit
